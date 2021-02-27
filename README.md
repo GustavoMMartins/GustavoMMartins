@@ -1,19 +1,16 @@
 <img align="right" src="image/computer-illustration.png" width="350"/>
 
-<br/>
-
 ## Olá mundo 👋
 
 Oi me chamo Gustavo, sou desenvolvedor full-stack, atualmente trabalho com java e angular.
 
 ### Linguagens 
 
-- Java
-- Angular
-- PHP
-- HTML
-- CSS
-- JS
+Java, Angular, PHP, HTML, CSS, JS
+
+### Banco de dados
+
+MySql, Oracle 
 
 <br>
 
